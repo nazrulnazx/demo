@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://react:Qazwsx123@cluster0.x5lvp.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://react:Qazwsx123@cluster0.x5lvp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecretCode" : "mytestsecretcode"
 }
